@@ -30,8 +30,16 @@
   <a href="https://discord.com/users/arnaldo0502" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
+### 🎧 Join My Discord Server  
+<p align="center">
+  <a href="https://discord.gg/U7yHAQVwDa" target="_blank"><img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" /></a>
+</p>
+
+
 ### 🎵 Now Playing on Spotify  
+<p align="center">
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&redirect=true)
+</p>
 
 
 
