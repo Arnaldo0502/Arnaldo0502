@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Arnaldo0502! 👋</h1>
 
-<!--
-**Arnaldo0502/Arnaldo0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Higher Degree student in <strong>Multiplatform Application Development (DAM)</strong>.  
+  Passionate about programming, technology, and problem-solving.  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,vscode,linux" alt="Tech Stack" />
+</p>
+
+---
+
+### 🚀 Featured Project  
+🔗 **[ProjectPersonalAFV](https://github.com/Arnaldo0502/ProjectPersonalAFV)**  
+
+---
+
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://github.com/Arnaldo0502"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving it a star!** ⭐  
