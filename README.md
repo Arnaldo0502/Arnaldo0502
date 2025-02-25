@@ -31,11 +31,7 @@
 </p>
 
 ### 🎧 Stay with Me
-<p align="center">
-    <a href="https://discord.gg/U7yHAQVwDa" target="_blank"><img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" /></a>
-    <a href="https://open.spotify.com/user/quelo0502?si=d6aa457a6a4c4d18" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" /></a>
-
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&redirect=true)
 
 ### 🎵 Now Playing on Spotify  
 <p align="center">
