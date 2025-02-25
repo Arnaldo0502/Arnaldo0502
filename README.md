@@ -33,13 +33,13 @@
 ### 🎧 Stay with Me
 <p align="center">
     <a href="https://discord.gg/U7yHAQVwDa" target="_blank"><img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" /></a>
-    <a href="[https://open.spotify.com/user/TU_ID_DE_SPOTIFY](https://open.spotify.com/user/quelo0502?si=d6aa457a6a4c4d18)" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" /></a>
+    <a href="https://open.spotify.com/user/quelo0502?si=d6aa457a6a4c4d18" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" /></a>
 
 </p>
 
 ### 🎵 Now Playing on Spotify  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_ID_DE_SPOTIFY&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </p>
 
 
