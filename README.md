@@ -20,6 +20,14 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,vscode,linux" alt="Tech Stack" />
 </p>
 
+### 🛠 Currently Working On  
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=red">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=yellow">
+</p>
+
+
 ---
 
 ### 🚀 Featured Project  
