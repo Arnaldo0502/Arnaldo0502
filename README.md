@@ -23,8 +23,12 @@
 <p align="center">
   <a href="https://github.com/Arnaldo0502"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/arnau_fivi_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  ### 🎧 Join My Discord Server  
 
+  <a href="https://discord.gg/U7yHAQVwDa" target="_blank"><img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" /></a>
 </p>
+
+
 
 ---
 
