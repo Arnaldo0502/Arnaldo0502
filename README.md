@@ -11,8 +11,10 @@
 
 ---
 
-### 🛠 Tech Stack  
 <p align="center">
+  
+  ### 🛠 Tech Stack  
+
   <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,vscode,linux" alt="Tech Stack" />
 </p>
 
