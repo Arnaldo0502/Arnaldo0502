@@ -30,13 +30,9 @@
   <a href="https://discord.com/users/arnaldo0502" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-### 🎧 Stay with Me
+### 🎵 Now Playing on Spotify  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&redirect=true)
 
-### 🎵 Now Playing on Spotify  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
 
 
 ---
