@@ -30,9 +30,5 @@
     <a href="https://discord.gg/U7yHAQVwDa" target="_blank"><img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" /></a>
 </p>
 
-
-
-
 ---
-
 ⭐ **If you like my work, consider giving it a star!** ⭐  
