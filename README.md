@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=yellow">
 </p>
+
 ---
 
 ### 🚀 Featured Project  
