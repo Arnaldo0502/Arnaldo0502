@@ -27,11 +27,16 @@
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=yellow">
 </p>
 
-
 ---
 
 ### 🚀 Featured Project  
 🔗 **[ProjectPersonalAFV](https://github.com/Arnaldo0502/ProjectPersonalAFV)**  
+
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Arnaldo0502/Arnaldo0502/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 
