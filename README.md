@@ -32,22 +32,17 @@
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=yellow">
 </p>
 
----
-
-## 🚀 Featured Project  
-🔗 **[ProjectPersonalAFV](https://github.com/Arnaldo0502/ProjectPersonalAFV)**  
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnaldo0502&theme=github_dark" width="49%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnaldo0502&theme=github_dark" width="49%">
 </p>
 
-
-
 ---
+
+## 🚀 Featured Project  
+🔗 **[ProjectPersonalAFV](https://github.com/Arnaldo0502/ProjectPersonalAFV)**  
+
 
 ## 🐍 Contribution Snake  
 <p align="center">
@@ -69,16 +64,12 @@
   </a>
 </p>
 
----
-
 ## 🎧 Join My Discord Server  
 <p align="center">
   <a href="https://discord.gg/U7yHAQVwDa">
     <img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
 </p>
-
----
 
 ## 🎵 Now Playing on Spotify  
 <p align="center">
