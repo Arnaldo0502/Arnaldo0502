@@ -43,6 +43,8 @@
   <img src="https://github.com/Arnaldo0502/Arnaldo0502/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <table align="center" width="100%">
   <tr>
     <th width="33%">📫 Connect with Me</th>
