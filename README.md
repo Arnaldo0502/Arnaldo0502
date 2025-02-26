@@ -35,7 +35,7 @@
 
 ### ⏳ Tiempo Codificando  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO_WAKATIME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arnaldo0502&layout=compact&theme=radical" />
 </p>
 
 
