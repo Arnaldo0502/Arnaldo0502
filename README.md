@@ -44,10 +44,11 @@
 🔗 **[ProjectPersonalAFV](https://github.com/Arnaldo0502/ProjectPersonalAFV)**  
 
 
-## 🐍 Contribution Snake  
+## 📈 GitHub Activity  
 <p align="center">
-  <img src="https://github.com/arnaldo0502/arnaldo0502/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnaldo0502&theme=github-dark" />
 </p>
+
 
 ---
 
