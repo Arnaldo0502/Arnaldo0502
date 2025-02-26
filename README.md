@@ -32,12 +32,12 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=yellow">
 </p>
-
+/*
 ### ⏳ Tiempo Codificando  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arnaldo0502&layout=compact&theme=radical" />
 </p>
-
+*/
 
 ---
 
