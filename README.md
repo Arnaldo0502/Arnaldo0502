@@ -46,7 +46,6 @@
 
 ---
 
-### 🌐 Connect with Me, Join My Discord & Listen on Spotify  
 
 <table align="center" width="100%">
   <tr>
@@ -70,7 +69,7 @@
     </td>
     <td align="center">
       <a href="https://discord.gg/U7yHAQVwDa">
-        <img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="80px" alt="Discord Server" />
+        <img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30px" alt="Discord Server" />
       </a>
     </td>
     <td align="center">
