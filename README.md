@@ -56,15 +56,15 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Arnaldo0502">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px" width="200px" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"  width="200px" alt="GitHub" />
       </a>
       <br>
       <a href="https://www.instagram.com/arnau_fivi_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px" width="200px" alt="Instagram" />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="200px" alt="Instagram" />
       </a>
       <br>
       <a href="https://discord.com/users/arnaldo0502">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30px" width="200px" alt="Discord" />
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"  width="200px" alt="Discord" />
       </a>
     </td>
     <td align="center">
