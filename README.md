@@ -77,7 +77,7 @@
   </a>
 </p>
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
     <th width="33%">📫 Connect with Me</th>
     <th width="33%">🎧 Join My Discord Server</th>
