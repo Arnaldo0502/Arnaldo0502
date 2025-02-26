@@ -20,6 +20,18 @@
 
 
 ---
+<table align="center" width="100%">
+  <tr>
+    <th>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="50%">
+      </p>
+    </th>
+  </tr>
+</table>
+
+
+
   ### 🛠 Tech Stack  
 
 <p align="center">
@@ -43,9 +55,7 @@
   <img src="https://github.com/Arnaldo0502/Arnaldo0502/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="50%">
-</p>
+
 
 <table align="center" width="100%">
   <tr>
