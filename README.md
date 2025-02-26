@@ -32,13 +32,6 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=yellow">
 </p>
-/*
-### ⏳ Tiempo Codificando  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arnaldo0502&layout=compact&theme=radical" />
-</p>
-*/
-
 ---
 
 ### 🚀 Featured Project  
@@ -48,10 +41,6 @@
 <p align="center">
   <img src="https://github.com/Arnaldo0502/Arnaldo0502/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
-
----
-
 
 <table align="center" width="100%">
   <tr>
