@@ -22,11 +22,6 @@
 ---
 <table align="center" width="100%">
   <tr>
-    <th rowspan="2">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="100%">
-      </p>
-    </th>
     <th>🛠 Tech Stack </th>
     <th>🛠 Currently Working On </th>
   </tr>
@@ -42,6 +37,10 @@
     
   </tr>
 </table>
+
+<p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="100%">
+      </p>
 
 
 
