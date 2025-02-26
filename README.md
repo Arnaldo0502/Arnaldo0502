@@ -9,7 +9,7 @@
   Passionate about programming, technology, and problem-solving.  
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnaldo0502&label=Profile%20Views&color=blue&style=for-the-badge" width="200px" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Arnaldo0502&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 <p align="center">
   <a href="https://github.com/Arnaldo0502">
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="50%">
 </p>
 
 <table align="center" width="100%">
