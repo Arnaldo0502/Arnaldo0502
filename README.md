@@ -9,7 +9,7 @@
   Passionate about programming, technology, and problem-solving.  
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnaldo0502&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Arnaldo0502&label=Profile%20Views&color=blue&style=for-the-badge" width="200px" alt="Profile Views" />
 </p>
 <p align="center">
   <a href="https://github.com/Arnaldo0502">
