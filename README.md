@@ -56,7 +56,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Arnaldo0502">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px" with="200px" alt="GitHub" />
       </a>
       <br>
       <a href="https://www.instagram.com/arnau_fivi_/">
