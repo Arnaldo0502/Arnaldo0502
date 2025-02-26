@@ -22,7 +22,7 @@
 ---
 <table align="center" width="100%">
   <tr>
-    <th>
+    <th rowspan="2">
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="100%">
       </p>
@@ -31,7 +31,6 @@
     <th>🛠 Currently Working On </th>
   </tr>
   <tr>
-    <td></td>
     <td><p align="center"> <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,vscode,linux" alt="Tech Stack" /> </p></td>
     <td>
       <p align="center">
