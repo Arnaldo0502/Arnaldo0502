@@ -32,17 +32,14 @@
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=yellow">
 </p>
 
+## 🚀 Featured Project  
+🔗 **[ProjectPersonalAFV](https://github.com/Arnaldo0502/ProjectPersonalAFV)** 
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnaldo0502&theme=github_dark" width="49%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnaldo0502&theme=github_dark" width="49%">
 </p>
-
----
-
-## 🚀 Featured Project  
-🔗 **[ProjectPersonalAFV](https://github.com/Arnaldo0502/ProjectPersonalAFV)**  
-
 
 ## 📈 GitHub Activity  
 <p align="center">
