@@ -34,13 +34,25 @@
         <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=yellow">
       </p>
     </td>
-    
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="75%">
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="75%">
+      </p>
+    </td>
+    <td>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" width="300px" alt="Spotify Now Playing" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
