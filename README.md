@@ -48,38 +48,39 @@
 
 ### 🌐 Connect with Me, Join My Discord & Listen on Spotify  
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <th>📫 Connect with Me</th>
-    <th>🎧 Join My Discord Server</th>
-    <th>🎵 Now Playing on Spotify</th>
+    <th width="33%">📫 Connect with Me</th>
+    <th width="33%">🎧 Join My Discord Server</th>
+    <th width="33%">🎵 Now Playing on Spotify</th>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/Arnaldo0502">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px" alt="GitHub" />
       </a>
       <br>
       <a href="https://www.instagram.com/arnau_fivi_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px" alt="Instagram" />
       </a>
       <br>
       <a href="https://discord.com/users/arnaldo0502">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30px" alt="Discord" />
       </a>
     </td>
     <td align="center">
       <a href="https://discord.gg/U7yHAQVwDa">
-        <img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
+        <img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="80px" alt="Discord Server" />
       </a>
     </td>
     <td align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" width="300px" alt="Spotify Now Playing" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
