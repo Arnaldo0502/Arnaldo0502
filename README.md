@@ -77,6 +77,39 @@
   </a>
 </p>
 
+<table align="center" width="100%">
+  <tr>
+    <th width="33%">📫 Connect with Me</th>
+    <th width="33%">🎧 Join My Discord Server</th>
+    <th width="33%">🎵 Now Playing on Spotify</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Arnaldo0502">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"  width="200px" alt="GitHub" />
+      </a>
+      <br>
+      <a href="https://www.instagram.com/arnau_fivi_/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="200px" alt="Instagram" />
+      </a>
+      <br>
+      <a href="https://discord.com/users/arnaldo0502">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"  width="200px" alt="Discord" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/U7yHAQVwDa">
+        <img src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30px" alt="Discord Server" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" width="300px" alt="Spotify Now Playing" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ⭐ **If you like my work, consider giving it a star!** ⭐
