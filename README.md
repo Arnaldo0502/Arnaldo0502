@@ -72,7 +72,7 @@
 ## 🎵 Now Playing on Spotify  
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=quelo0502&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="If you see this, fck spotify ads" />
   </a>
 </p>
 
