@@ -24,7 +24,7 @@
   <tr>
     <th>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="100%">
       </p>
     </th>
   </tr>
