@@ -27,6 +27,20 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&theme=vision-friendly-dark&langs_count=8" width="100%">
       </p>
     </th>
+    <th>🛠 Tech Stack </th>
+    <th>🛠 Currently Working On </th>
+  </tr>
+  <tr>
+    <td></td>
+    <td><p align="center"> <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,vscode,linux" alt="Tech Stack" /> </p></td>
+    <td>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=red">
+        <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode">
+        <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=yellow">
+      </p>
+    </td>
+    
   </tr>
 </table>
 
