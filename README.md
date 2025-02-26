@@ -38,10 +38,9 @@
 ## 📊 GitHub Stats  
 <p align="center">
 </p>
-<table>
-  <th>  <img src="https://github-readme-stats.vercel.app/api?username=arnaldo0502&show_icons=true&theme=vision-friendly-dark" width="100%"></th>
-  <th>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&layout=compact&theme=vision-friendly-dark&langs_count=8" width="100%"></th>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=arnaldo0502&show_icons=true&theme=vision-friendly-dark" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo0502&layout=compact&theme=vision-friendly-dark&langs_count=8" width="100%">
+
 
 
 
